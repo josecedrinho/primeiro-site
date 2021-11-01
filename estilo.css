@@ -1,0 +1,60 @@
+#menu {
+  background-color: #FFC800;
+  display: flex;
+  justify-content: center;
+  padding:25px;
+}
+
+#logo {
+  width: 200px;
+}
+
+body {
+  margin: 0px;
+  font-family: opensanstitle, helvetica, arial, sans-serif;
+  font-size: 22px;
+  line-height: 30px;
+  font-weight: 100;
+}
+
+#conteudo {
+  padding: 0px 150px;
+}
+
+h1 {
+  font-size: 1.6em;
+}
+
+h2{
+  font-size: 1em;
+  font-weight: 100;
+  color: #555;
+}
+
+a{
+  text-decoration: none;
+  color: #a5147d;
+  font-weight: 700;
+}
+
+li{
+  line-height: 40px;
+}
+
+.texto-final{
+  font-weight: 700;
+  text-align:justify;
+  border-top: solid black 2px;
+}
+
+#rodape{
+  font-size: 0.7em;
+  text-align: center;
+  background-color: #FFC800;
+  padding:5px ;
+}
+
+#image {
+  display: flex;
+  justify-content: center;
+}
